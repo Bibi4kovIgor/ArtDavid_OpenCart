@@ -1,0 +1,66 @@
+---------- Date: 2015-12-10 17:35:18 ~ IP : 188.163.83.98 ----------
+REQUEST URI : /admin/index.php?route=extension/module&token=dQubdkroxfKTRdivOdIPOKJh7whoe7Pg
+MOD DETAILS:
+   modFile   : /home/b/bibi4kf3/artstyle.in.ua/public_html/vqmod/xml/irsfree_export_excel_bulk.xml
+   id        : Export Excel Data Bulk 
+   version   : 2.0
+   vqmver    : 2.4.1
+   author    : IRSSOFT
+VQModObject::parseMods - Could not resolve path for [admin/language/english/default.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-12-10 17:35:38 ~ IP : 188.163.83.98 ----------
+REQUEST URI : /index.php?route=common/home
+MOD DETAILS:
+   modFile   : /home/b/bibi4kf3/artstyle.in.ua/public_html/vqmod/xml/quicksignup.xml
+   id        : 
+   version   : 2x
+   vqmver    : 
+   author    : Webmedialdh
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <?php echo $telephone; ?></span></li>
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-12-10 17:49:58 ~ IP : 188.163.83.98 ----------
+REQUEST URI : /admin/index.php?route=extension/installer&token=dQubdkroxfKTRdivOdIPOKJh7whoe7Pg
+MOD DETAILS:
+   modFile   : /home/b/bibi4kf3/artstyle.in.ua/public_html/vqmod/xml/irsfree_export_excel_bulk.xml
+   id        : Export Excel Data Bulk 
+   version   : 2.0
+   vqmver    : 2.4.1
+   author    : IRSSOFT
+VQModObject::parseMods - Could not resolve path for [admin/language/english/default.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-12-10 17:56:31 ~ IP : 188.163.83.98 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /home/b/bibi4kf3/artstyle.in.ua/public_html/vqmod/xml/irsfree_export_excel_bulk.xml
+   id        : Export Excel Data Bulk 
+   version   : 2.0
+   vqmver    : 2.4.1
+   author    : IRSSOFT
+VQModObject::parseMods - Could not resolve path for [admin/language/english/default.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-12-10 17:57:05 ~ IP : 188.163.83.98 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /home/b/bibi4kf3/artstyle.in.ua/public_html/vqmod/xml/irsfree_export_excel_bulk.xml
+   id        : Export Excel Data Bulk 
+   version   : 2.0
+   vqmver    : 2.4.1
+   author    : IRSSOFT
+VQModObject::parseMods - Could not resolve path for [admin/language/english/default.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+

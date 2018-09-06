@@ -1,0 +1,29 @@
+2015-11-23 18:44:58 - PHP Notice:  Undefined index: sort_order in /home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/design/banner.php on line 386
+2015-11-23 18:44:58 - PHP Notice:  Undefined index: sort_order in /home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/design/banner.php on line 386
+2015-11-23 18:44:58 - PHP Notice:  Undefined index: sort_order in /home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/design/banner.php on line 386
+2015-11-23 20:31:04 - PHP Warning:  ftp_chdir(): Failed to change directory. in /home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/installer.php on line 299
+2015-11-26 14:55:27 - PHP Warning:  ftp_chdir(): Failed to change directory. in /home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/installer.php on line 299
+2015-11-26 14:55:53 - PHP Warning:  ftp_chdir(): Failed to change directory. in /home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/installer.php on line 299
+2015-11-26 14:56:39 - PHP Warning:  ftp_chdir(): Failed to change directory. in /home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/installer.php on line 299
+2015-11-26 15:00:29 - PHP Warning:  ftp_chdir(): Failed to change directory. in /home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/installer.php on line 299
+2015-11-26 15:57:30 - PHP Warning:  ftp_chdir(): Failed to change directory. in /home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/installer.php on line 299
+2015-11-26 16:06:20 - PHP Warning:  ftp_chdir(): Failed to change directory. in /home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/installer.php on line 299
+2015-11-26 16:10:58 - PHP Warning:  ftp_chdir(): Failed to change directory. in /home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/installer.php on line 299
+2015-11-26 16:21:08 - PHP Warning:  ftp_chdir(): Failed to change directory. in /home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/installer.php on line 299
+2015-11-27 15:04:59 - PHP Warning:  ftp_chdir(): Failed to change directory. in /home/b/bibi4kf3/artstyle.in.ua/public_html/vqmod/vqcache/vq2-admin_controller_extension_installer.php on line 299
+2015-11-27 15:33:48 - PHP Notice:  Undefined variable: entry_export in /home/b/bibi4kf3/artstyle.in.ua/public_html/admin/view/template/tool/backup.tpl on line 43
+2015-11-27 15:45:33 - PHP Notice:  Undefined variable: entry_export in /home/b/bibi4kf3/artstyle.in.ua/public_html/admin/view/template/tool/backup.tpl on line 43
+2015-11-27 15:49:00 - PHP Notice:  Undefined variable: entry_export in /home/b/bibi4kf3/artstyle.in.ua/public_html/admin/view/template/tool/backup.tpl on line 43
+2015-11-27 15:49:16 - PHP Notice:  Undefined variable: entry_export in /home/b/bibi4kf3/artstyle.in.ua/public_html/admin/view/template/tool/backup.tpl on line 43
+2015-11-28 1:30:13 - PHP Notice:  Undefined variable: entry_export in /home/b/bibi4kf3/artstyle.in.ua/public_html/admin/view/template/tool/backup.tpl on line 43
+2015-11-28 1:30:41 - PHP Notice:  Undefined variable: entry_export in /home/b/bibi4kf3/artstyle.in.ua/public_html/admin/view/template/tool/backup.tpl on line 43
+2015-11-28 1:30:46 - PHP Notice:  Undefined variable: entry_export in /home/b/bibi4kf3/artstyle.in.ua/public_html/admin/view/template/tool/backup.tpl on line 43
+2015-11-29 22:07:03 - PHP Notice:  Undefined variable: entry_export in /home/b/bibi4kf3/artstyle.in.ua/public_html/admin/view/template/tool/backup.tpl on line 43
+2015-11-29 22:07:14 - PHP Notice:  Undefined variable: entry_export in /home/b/bibi4kf3/artstyle.in.ua/public_html/admin/view/template/tool/backup.tpl on line 43
+2015-12-11 19:10:36 - PHP Notice:  Undefined property: Language::$language in /home/b/bibi4kf3/artstyle.in.ua/public_html/system/storage/modification/catalog/language/english/common/header.php on line 3
+2015-12-31 11:27:43 - PHP Warning:  ftp_chdir(): Failed to change directory. in /home/b/bibi4kf3/artstyle.in.ua/public_html/system/storage/modification/admin/controller/extension/installer.php on line 299
+2015-12-31 11:29:21 - PHP Warning:  ftp_chdir(): Failed to change directory. in /home/b/bibi4kf3/artstyle.in.ua/public_html/vqmod/vqcache/vq2-admin_controller_extension_installer.php on line 299
+2015-12-31 11:37:17 - PHP Warning:  ftp_chdir(): Failed to change directory. in /home/b/bibi4kf3/artstyle.in.ua/public_html/system/storage/modification/admin/controller/extension/installer.php on line 299
+2015-12-31 11:38:19 - PHP Warning:  ftp_chdir(): Failed to change directory. in /home/b/bibi4kf3/artstyle.in.ua/public_html/system/storage/modification/admin/controller/extension/installer.php on line 299
+2015-12-31 11:43:37 - PHP Warning:  ftp_chdir(): Failed to change directory. in /home/b/bibi4kf3/artstyle.in.ua/public_html/system/storage/modification/admin/controller/extension/installer.php on line 299
+2015-12-31 11:44:18 - PHP Warning:  ftp_chdir(): Failed to change directory. in /home/b/bibi4kf3/artstyle.in.ua/public_html/system/storage/modification/admin/controller/extension/installer.php on line 299

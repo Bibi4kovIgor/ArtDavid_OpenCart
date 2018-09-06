@@ -1,0 +1,13 @@
+---------- Date: 2018-09-05 12:15:57 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /home/igor/Work/artstyle_site/artstyle_site/vqmod/xml/irsfree_export_excel_bulk.xml
+   id        : Export Excel Data Bulk 
+   version   : 2.0
+   vqmver    : 2.4.1
+   author    : IRSSOFT
+VQModObject::parseMods - Could not resolve path for [admin/language/english/default.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+

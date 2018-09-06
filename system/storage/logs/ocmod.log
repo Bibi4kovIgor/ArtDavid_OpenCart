@@ -1,0 +1,1578 @@
+2015-12-31 11:29:04 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+Modification::refresh - Processing 'Export Excel Data Bulk '
+Modification::refresh - UNABLE TO FIND FILE(S), IGNORED:
+  file = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/language/english/default.php'
+Modification::refresh - Done 'Export Excel Data Bulk '
+----------------------------------------------------------------
+Modification::refresh - Processing 'VQMOD CORE FOR OPENCART - DO NOT REMOVE'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/action.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/controller.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/controller.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/event.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/event.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/front.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/front.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/loader.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/model.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/model.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/registry.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/registry.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/affiliate.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/affiliate.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/cache.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/cache.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/cart.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/cart.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/config.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/currency.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/currency.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/customer.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/customer.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/db.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/db.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/document.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/document.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/encryption.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/encryption.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/excel_xml.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/excel_xml.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/image.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/image.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/language.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/length.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/length.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/log.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/log.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/mail.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/mail.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/openbay.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/openbay.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/pagination.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/pagination.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/request.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/request.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/response.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/response.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/session.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/session.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/tax.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/tax.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/template.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/url.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/url.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/user.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/user.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/weight.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/weight.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/analytics.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/analytics.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/captcha.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/captcha.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/feed.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/feed.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/fraud.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/fraud.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/installer.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/modification.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/modification.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/module.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/module.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/openbay.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/payment.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/payment.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/shipping.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/shipping.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/total.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/total.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - Done 'VQMOD CORE FOR OPENCART - DO NOT REMOVE'
+----------------------------------------------------------------
+2015-12-31 11:30:10 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+Modification::refresh - Processing 'Export Excel Data Bulk '
+Modification::refresh - UNABLE TO FIND FILE(S), IGNORED:
+  file = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/language/english/default.php'
+Modification::refresh - Done 'Export Excel Data Bulk '
+----------------------------------------------------------------
+Modification::refresh - Processing 'VQMOD CORE FOR OPENCART - DO NOT REMOVE'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/action.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/controller.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/controller.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/event.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/event.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/front.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/front.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/loader.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/model.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/model.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/registry.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/registry.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/affiliate.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/affiliate.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/cache.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/cache.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/cart.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/cart.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/config.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/currency.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/currency.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/customer.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/customer.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/db.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/db.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/document.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/document.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/encryption.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/encryption.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/excel_xml.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/excel_xml.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/image.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/image.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/language.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/length.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/length.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/log.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/log.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/mail.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/mail.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/openbay.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/openbay.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/pagination.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/pagination.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/request.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/request.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/response.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/response.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/session.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/session.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/tax.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/tax.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/template.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/url.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/url.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/user.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/user.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/weight.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/weight.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/analytics.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/analytics.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/captcha.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/captcha.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/feed.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/feed.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/fraud.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/fraud.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/installer.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/modification.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/modification.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/module.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/module.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/openbay.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/payment.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/payment.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/shipping.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/shipping.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/total.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/total.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - Done 'VQMOD CORE FOR OPENCART - DO NOT REMOVE'
+----------------------------------------------------------------
+2015-12-31 11:37:41 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+Modification::refresh - Processing 'Export Excel Data Bulk '
+Modification::refresh - UNABLE TO FIND FILE(S), IGNORED:
+  file = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/language/english/default.php'
+Modification::refresh - Done 'Export Excel Data Bulk '
+----------------------------------------------------------------
+Modification::refresh - Processing 'VQMOD CORE FOR OPENCART - DO NOT REMOVE'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/action.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/controller.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/controller.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/event.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/event.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/front.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/front.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/loader.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/model.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/model.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/registry.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/registry.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/affiliate.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/affiliate.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/cache.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/cache.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/cart.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/cart.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/config.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/currency.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/currency.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/customer.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/customer.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/db.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/db.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/document.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/document.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/encryption.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/encryption.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/excel_xml.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/excel_xml.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/image.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/image.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/language.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/length.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/length.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/log.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/log.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/mail.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/mail.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/openbay.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/openbay.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/pagination.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/pagination.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/request.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/request.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/response.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/response.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/session.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/session.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/tax.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/tax.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/template.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/url.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/url.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/user.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/user.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/weight.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/weight.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/analytics.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/analytics.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/captcha.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/captcha.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/feed.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/feed.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/fraud.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/fraud.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/installer.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/modification.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/modification.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/module.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/module.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/openbay.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/payment.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/payment.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/shipping.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/shipping.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/total.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/total.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - Done 'VQMOD CORE FOR OPENCART - DO NOT REMOVE'
+----------------------------------------------------------------
+2015-12-31 11:43:27 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+Modification::refresh - Processing 'Export Excel Data Bulk '
+Modification::refresh - UNABLE TO FIND FILE(S), IGNORED:
+  file = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/language/english/default.php'
+Modification::refresh - Done 'Export Excel Data Bulk '
+----------------------------------------------------------------
+Modification::refresh - Processing 'VQMOD CORE FOR OPENCART - DO NOT REMOVE'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/action.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/controller.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/controller.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/event.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/event.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/front.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/front.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/loader.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/model.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/model.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/registry.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/registry.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/affiliate.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/affiliate.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/cache.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/cache.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/cart.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/cart.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/config.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/currency.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/currency.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/customer.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/customer.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/db.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/db.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/document.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/document.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/encryption.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/encryption.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/excel_xml.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/excel_xml.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/image.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/image.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/language.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/length.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/length.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/log.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/log.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/mail.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/mail.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/openbay.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/openbay.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/pagination.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/pagination.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/request.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/request.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/response.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/response.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/session.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/session.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/tax.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/tax.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/template.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/url.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/url.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/user.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/user.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/weight.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/weight.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/analytics.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/analytics.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/captcha.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/captcha.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/feed.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/feed.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/fraud.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/fraud.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/installer.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/modification.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/modification.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/module.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/module.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/openbay.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/payment.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/payment.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/shipping.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/shipping.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/total.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/total.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - Done 'VQMOD CORE FOR OPENCART - DO NOT REMOVE'
+----------------------------------------------------------------
+2015-12-31 11:43:58 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+Modification::refresh - Processing 'Export Excel Data Bulk '
+Modification::refresh - UNABLE TO FIND FILE(S), IGNORED:
+  file = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/language/english/default.php'
+Modification::refresh - Done 'Export Excel Data Bulk '
+----------------------------------------------------------------
+Modification::refresh - Processing 'VQMOD CORE FOR OPENCART - DO NOT REMOVE'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/action.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/controller.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/controller.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/event.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/event.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/front.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/front.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/loader.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/model.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/model.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/registry.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/registry.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/affiliate.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/affiliate.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/cache.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/cache.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/cart.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/cart.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/config.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/currency.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/currency.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/customer.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/customer.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/db.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/db.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/document.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/document.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/encryption.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/encryption.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/excel_xml.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/excel_xml.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/image.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/image.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/language.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/length.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/length.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/log.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/log.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/mail.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/mail.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/openbay.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/openbay.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/pagination.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/pagination.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/request.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/request.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/response.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/response.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/session.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/session.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/tax.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/tax.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/template.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/url.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/url.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/user.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/user.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/weight.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/weight.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/analytics.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/analytics.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/captcha.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/captcha.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/feed.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/feed.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/fraud.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/fraud.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/installer.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/modification.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/modification.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/module.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/module.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/openbay.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/payment.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/payment.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/shipping.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/shipping.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/total.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/total.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - Done 'VQMOD CORE FOR OPENCART - DO NOT REMOVE'
+----------------------------------------------------------------
+2015-12-31 11:44:02 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+Modification::refresh - Processing 'Export Excel Data Bulk '
+Modification::refresh - UNABLE TO FIND FILE(S), IGNORED:
+  file = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/language/english/default.php'
+Modification::refresh - Done 'Export Excel Data Bulk '
+----------------------------------------------------------------
+Modification::refresh - Processing 'VQMOD CORE FOR OPENCART - DO NOT REMOVE'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/action.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/controller.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/controller.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/event.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/event.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/front.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/front.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/loader.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/model.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/model.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/registry.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/engine/registry.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/affiliate.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/affiliate.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/cache.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/cache.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/cart.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/cart.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/config.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/currency.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/currency.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/customer.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/customer.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/db.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/db.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/document.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/document.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/encryption.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/encryption.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/excel_xml.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/excel_xml.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/image.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/image.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/language.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/length.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/length.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/log.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/log.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/mail.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/mail.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/openbay.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/openbay.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/pagination.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/pagination.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/request.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/request.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/response.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/response.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/session.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/session.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/tax.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/tax.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/template.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/url.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/url.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/user.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/user.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/weight.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/system/library/weight.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/analytics.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/analytics.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/captcha.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/captcha.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/feed.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/feed.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/fraud.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/fraud.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/installer.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/modification.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/modification.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/module.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/module.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/openbay.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/payment.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/payment.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/shipping.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/shipping.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/total.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/home/b/bibi4kf3/artstyle.in.ua/public_html/admin/controller/extension/total.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - Done 'VQMOD CORE FOR OPENCART - DO NOT REMOVE'
+----------------------------------------------------------------

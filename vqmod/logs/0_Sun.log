@@ -1,0 +1,35 @@
+---------- Date: 2015-12-13 01:21:57 ~ IP : 188.163.83.98 ----------
+REQUEST URI : /index.php?route=common/home
+MOD DETAILS:
+   modFile   : /home/b/bibi4kf3/artstyle.in.ua/public_html/vqmod/xml/irsfree_export_excel_bulk.xml
+   id        : Export Excel Data Bulk 
+   version   : 2.0
+   vqmver    : 2.4.1
+   author    : IRSSOFT
+VQModObject::parseMods - Could not resolve path for [admin/language/english/default.php] (SKIPPED)
+
+MOD DETAILS:
+   modFile   : /home/b/bibi4kf3/artstyle.in.ua/public_html/vqmod/xml/image_resize_auto_type.xml
+   id        : Auto-Type OpenCart resize Image
+   version   : 1.0
+   vqmver    : 2.x
+   author    : qahar [echothemes.com]
+
+File Name    : catalog/model/tool/image.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $image->resize($width, $height, $type);
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-12-13 01:53:43 ~ IP : 188.163.83.98 ----------
+REQUEST URI : /admin/index.php?route=extension/modification/refresh&token=Mnm1NCyHi7aQfZ1PYMCJRXCTG51CBDEP
+MOD DETAILS:
+   modFile   : /home/b/bibi4kf3/artstyle.in.ua/public_html/vqmod/xml/irsfree_export_excel_bulk.xml
+   id        : Export Excel Data Bulk 
+   version   : 2.0
+   vqmver    : 2.4.1
+   author    : IRSSOFT
+VQModObject::parseMods - Could not resolve path for [admin/language/english/default.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
